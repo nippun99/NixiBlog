@@ -1,2 +1,2 @@
  # NixiBlog
- blog2
+ blog blog
