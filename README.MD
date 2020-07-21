@@ -1,3 +1,3 @@
  # NixiBlog
  blog for
-blog fr
+blog for
