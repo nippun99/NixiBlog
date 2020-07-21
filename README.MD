@@ -1,2 +1,1 @@
  # NixiBlog
- blog blog
